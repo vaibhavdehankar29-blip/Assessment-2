@@ -4,7 +4,7 @@
 
 This project presents a premium advertising key visual for a fictional high-end wireless headphone brand called **Auralis**.
 
-The flagship product featured in the campaign is **Auralis Nova**.
+The flagship product featured in the campaign is **Auralis Nova**. 
 
 The objective was to create a sophisticated, photorealistic product advertisement inspired by high-end global consumer electronics campaigns.
 
